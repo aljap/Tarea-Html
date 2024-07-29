@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to right, #FFEFBA, #FFFFFF);
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+    max-width: 600px;
+    background: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.btn-custom {
+    background-color: #FFA726;
+    color: white;
+}
+
+.btn-custom:hover {
+    background-color: #FF7043;
+}
